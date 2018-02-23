@@ -1147,11 +1147,12 @@ select {
 }
 .cards-section .cards-wrapper {
   max-width: 860px;
-  margin-left: auto;
-  margin-right: auto;
+    margin-right: auto;
+    margin-left: auto;
+
 }
 .cards-section .item {
-  margin-bottom: 30px;
+  margin-bottom: 150px;
 }
 .cards-section .item .icon-holder {
   margin-bottom: 15px;
@@ -1206,10 +1207,10 @@ select {
   border-top: 3px solid #75c181;
 }
 .cards-section .item-green .item-inner:hover .title {
-  color: #48a156;
+  color: #8A40A7;
 }
 .cards-section .item-green .icon {
-  color: #75c181;
+  color: #8A40A7;
 }
 .cards-section .item-blue .item-inner {
   border-top: 3px solid #58bbee;
