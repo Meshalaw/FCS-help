@@ -1277,7 +1277,7 @@ select {
 }
 
 .Asset_table_locate{
-    width: 600px;
+    width: 500px;
 }
 
 .reset_button{
@@ -1292,6 +1292,10 @@ select {
 
 .map_type{
     width: 30px;
+}
+
+.locate_by_org_level{
+    width: 450px;
 }
 
 /* Small devices (tablets, 768px and up) */
